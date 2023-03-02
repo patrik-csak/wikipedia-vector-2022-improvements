@@ -22,6 +22,15 @@ I prefer serif fonts when reading long-form content
 |---|---|
 | ![Screenshot of desktop Wikipedia page for World Wide Web using Wikipedia's default Vector 2022 skin](screenshot-before.png) | ![Screenshot of desktop Wikipedia page for World Wide Web using Wikipedia's Vector 2022 skin plus my custom styling](screenshot-after.png) |
 
+## Usage
+
+1. Log in to Wikipedia
+1. Go to your [appearance preferences](https://en.wikipedia.org/wiki/Special:Preferences#mw-prefsection-rendering)
+1. Under **Skin**, click the **Custom CSS** link for the **Vector (2022)** skin (here&rsquo;s a direct link : [Special:MyPage/vector-2022.css](https://en.wikipedia.org/wiki/Special:MyPage/vector-2022.css))
+1. Click **Edit source**
+1. Copy and paste the CSS code below to your page
+1. Click **Publish changes**
+
 ## Code
 
 Here&rsquo;s the CSS :
